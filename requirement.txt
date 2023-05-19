@@ -1,0 +1,9 @@
+Django
+Pillow
+djangorestframework
+django-filter
+---------------
+django-cors-headers
+djangorestframework-simplejwt
+django-bootstrap-modal-forms
+django-widget-tweaks
